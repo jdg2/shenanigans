@@ -131,6 +131,7 @@ buzzwords <- function() {
                "master",
                "guy",
                "assessor",
+               "partner",
                "coordinator",
                "controller",
                'administrator',
